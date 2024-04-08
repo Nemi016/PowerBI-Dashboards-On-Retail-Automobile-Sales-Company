@@ -1,4 +1,4 @@
-# PowerBI-Dashboards-On-Retail-Automobile-Sales-Company
+# Data Visualization through-On-Retail-Automobile-Sales-Company
 ### Design Principles 
 
 Power BI is a versatile set of tools that brings together diverse data sources, ranging from Excel 
